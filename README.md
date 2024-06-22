@@ -1,13 +1,11 @@
 # Overview
-
-1.This SQL code performs various data analysis tasks on the walmartsales.sales table. It includes the following operations:
-2. Updating the time_of_day column based on the time column.
-3. Adding day_name and month_name columns to the sales table.
-4. Analyzing unique cities, product lines, and their respective sales metrics.
-5. Calculating revenue, COGS, and VAT by different dimensions (month, product line, city, etc.).
-6. Identifying best-selling product lines and branches.
-7. Analyzing customer behavior and preferences by gender, customer type, and payment method.
-8. Evaluating the impact of time of day and day of the week on customer ratings.
+1. Updating the time_of_day column based on the time column.
+2. Adding day_name and month_name columns to the sales table.
+3. Analyzing unique cities, product lines, and their respective sales metrics.
+4. Calculating revenue, COGS, and VAT by different dimensions (month, product line, city, etc.).
+5. Identifying best-selling product lines and branches.
+6. Analyzing customer behavior and preferences by gender, customer type, and payment method.
+7. Evaluating the impact of time of day and day of the week on customer ratings.
 
 # Key Insights
 1. The code updates the time_of_day column based on the time column, categorizing it into "Morning", "Afternoon", and "Evening".
